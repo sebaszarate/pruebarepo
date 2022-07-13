@@ -1,0 +1,17 @@
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\bin\Debug\net6.0-windows\ProyectoFin.exe
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\bin\Debug\net6.0-windows\ProyectoFin.deps.json
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\bin\Debug\net6.0-windows\ProyectoFin.runtimeconfig.json
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\bin\Debug\net6.0-windows\ProyectoFin.dll
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\bin\Debug\net6.0-windows\ProyectoFin.pdb
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\obj\Debug\net6.0-windows\ProyectoFin.csproj.AssemblyReference.cache
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\obj\Debug\net6.0-windows\ProyectoFin.Form1.resources
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\obj\Debug\net6.0-windows\ProyectoFin.csproj.GenerateResource.cache
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\obj\Debug\net6.0-windows\ProyectoFin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\obj\Debug\net6.0-windows\ProyectoFin.AssemblyInfoInputs.cache
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\obj\Debug\net6.0-windows\ProyectoFin.AssemblyInfo.cs
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\obj\Debug\net6.0-windows\ProyectoFin.csproj.CoreCompileInputs.cache
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\obj\Debug\net6.0-windows\ProyectoFin.dll
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\obj\Debug\net6.0-windows\refint\ProyectoFin.dll
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\obj\Debug\net6.0-windows\ProyectoFin.pdb
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\obj\Debug\net6.0-windows\ProyectoFin.genruntimeconfig.cache
+C:\Users\sebastian\Desktop\Proyecto-Curso\ProyectoFin\ProyectoFin\obj\Debug\net6.0-windows\ref\ProyectoFin.dll
